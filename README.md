@@ -52,9 +52,9 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PriyanshiGupta1701-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshigupta1701)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/priyanshigupta1701/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyanshigupta1701)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PriyanshiGupta1701-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshi-gupta-503b16226/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Priyanshi_1701/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyanshi1701)
 
 
 
