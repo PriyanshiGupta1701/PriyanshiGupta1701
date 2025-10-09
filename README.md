@@ -1,4 +1,4 @@
-<# 👋 Hi, I'm Priyanshi Gupta
+## 👋 Hi, I'm Priyanshi Gupta
 
 💼 **Software Engineer at [Ascentt AITek](https://www.ascentt.com/)**  
 🤖 Passionate about **AI, Machine Learning, and Intelligent Systems**
@@ -49,6 +49,13 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 ![Detectron2](https://img.shields.io/badge/Detectron2-FF6F00?style=flat&logo=python&logoColor=white)
 ![SAM](https://img.shields.io/badge/Segment%20Anything-000000?style=flat&logo=meta&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-2C3E50?style=flat&logo=python&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PriyanshiGupta1701-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshigupta1701)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/priyanshigupta1701/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyanshigupta1701)
+
 
 
 
