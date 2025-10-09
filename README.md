@@ -64,6 +64,6 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 
 ## 📊 GitHub Stats
 
-![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiGupta1701&show_icons=true&theme=radical)
+![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiGupta1701&show_icons=true&theme=radical&count_private=true)
 
 
