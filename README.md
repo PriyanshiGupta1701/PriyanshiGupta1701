@@ -60,6 +60,10 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Priyanshi_1701/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/priyanshi1701)
 
+---
 
+## 📊 GitHub Stats
+
+![Priyanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyanshiGupta1701&show_icons=true&theme=radical)
 
 
