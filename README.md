@@ -12,4 +12,17 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 - 🌾 **Kisaan Vani** — IoT-based smart farming and crop disease prediction  
 - 🎥 **Text2Video** — automated text–to–video generation system.  
 - 🔢 **DeepVAR & TFT models** — multivariate time series forecasting for sensor data.  
-- 🔍 **Barcode Serial Reader** — fine-tuned OCR model for barcode serial number extraction. 
+- 🔍 **Barcode Serial Reader** — fine-tuned OCR model for barcode serial number extraction.
+
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
+
