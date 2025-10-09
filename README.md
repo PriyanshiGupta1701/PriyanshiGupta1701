@@ -14,6 +14,8 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 - 🔢 **DeepVAR & TFT models** — multivariate time series forecasting for sensor data.  
 - 🔍 **Barcode Serial Reader** — fine-tuned OCR model for barcode serial number extraction.
 
+---
+
 ## 🧠 Tech Stack
 
 **Languages & Databases**  
@@ -49,6 +51,8 @@ I’ve worked on projects spanning **IoT, computer vision, time series forecasti
 ![Detectron2](https://img.shields.io/badge/Detectron2-FF6F00?style=flat&logo=python&logoColor=white)
 ![SAM](https://img.shields.io/badge/Segment%20Anything-000000?style=flat&logo=meta&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-2C3E50?style=flat&logo=python&logoColor=white)
+
+---
 
 ## 🌐 Connect With Me
 
