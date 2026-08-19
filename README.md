@@ -140,48 +140,61 @@ guest@github:~$ cat skills.json | jq .
 ```
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
+<br>
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&color=161B22)
+![Rust](https://img.shields.io/badge/Rust-161B22?style=flat-square&color=161B22)
+![C++](https://img.shields.io/badge/C++-161B22?style=flat-square&color=161B22)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&color=161B22)
+
+<br>
 
 **AI / ML / CV**
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Detectron2](https://img.shields.io/badge/Detectron2-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&color=161B22)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&color=161B22)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&color=161B22)
+![XGBoost](https://img.shields.io/badge/XGBoost-161B22?style=flat-square&color=161B22)
+![OpenCV](https://img.shields.io/badge/OpenCV-161B22?style=flat-square&color=161B22)
+![YOLO](https://img.shields.io/badge/YOLO-161B22?style=flat-square&color=161B22)
+![Detectron2](https://img.shields.io/badge/Detectron2-161B22?style=flat-square&color=161B22)
+![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&color=161B22)
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&color=161B22)
+![Gemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square&color=161B22)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&color=161B22)
+![Darts](https://img.shields.io/badge/Darts-161B22?style=flat-square&color=161B22)
+
+<br>
 
 **Backend & Frameworks**
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Actix--web](https://img.shields.io/badge/Actix--web-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&color=161B22)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&color=161B22)
+![Actix--web](https://img.shields.io/badge/Actix--web-161B22?style=flat-square&color=161B22)
+![Tauri](https://img.shields.io/badge/Tauri-161B22?style=flat-square&color=161B22)
+![WebSocket](https://img.shields.io/badge/WebSocket-161B22?style=flat-square&color=161B22)
+
+<br>
 
 **Cloud, DevOps & Data**
-![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Postgres](https://img.shields.io/badge/Postgres-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Power_BI](https://img.shields.io/badge/Power%20BI-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Databricks](https://img.shields.io/badge/Databricks-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![SonarQube](https://img.shields.io/badge/SonarQube-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
+<br>
+![Azure](https://img.shields.io/badge/Azure-161B22?style=flat-square&color=161B22)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&color=161B22)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&color=161B22)
+![Postgres](https://img.shields.io/badge/Postgres-161B22?style=flat-square&color=161B22)
+![Power_BI](https://img.shields.io/badge/Power%20BI-161B22?style=flat-square&color=161B22)
+![Databricks](https://img.shields.io/badge/Databricks-161B22?style=flat-square&color=161B22)
+![SonarQube](https://img.shields.io/badge/SonarQube-161B22?style=flat-square&color=161B22)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&color=161B22)
+
+<br>
 
 **Tools & Platforms**
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&labelColor=000000&color=00FF9C&logoColor=000000)
-
+<br>
+![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&color=161B22)
+![Jupyter](https://img.shields.io/badge/Jupyter-161B22?style=flat-square&color=161B22)
+![Streamlit](https://img.shields.io/badge/Streamlit-161B22?style=flat-square&color=161B22)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-161B22?style=flat-square&color=161B22)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square&color=161B22)
 <br>
 
 ## 📡 `connect --list`
