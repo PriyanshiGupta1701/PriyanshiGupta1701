@@ -145,9 +145,7 @@ guest@github:~$ cat skills.json | jq .
 ![Rust](https://img.shields.io/badge/Rust-161B22?style=flat-square&color=161B22)
 ![C++](https://img.shields.io/badge/C++-161B22?style=flat-square&color=161B22)
 ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&color=161B22)
-
 <br>
-
 **AI / ML / CV**
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&color=161B22)
@@ -161,10 +159,7 @@ guest@github:~$ cat skills.json | jq .
 ![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=flat-square&color=161B22)
 ![Gemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square&color=161B22)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&color=161B22)
-![Darts](https://img.shields.io/badge/Darts-161B22?style=flat-square&color=161B22)
-
 <br>
-
 **Backend & Frameworks**
 <br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&color=161B22)
@@ -172,9 +167,7 @@ guest@github:~$ cat skills.json | jq .
 ![Actix--web](https://img.shields.io/badge/Actix--web-161B22?style=flat-square&color=161B22)
 ![Tauri](https://img.shields.io/badge/Tauri-161B22?style=flat-square&color=161B22)
 ![WebSocket](https://img.shields.io/badge/WebSocket-161B22?style=flat-square&color=161B22)
-
 <br>
-
 **Cloud, DevOps & Data**
 <br>
 ![Azure](https://img.shields.io/badge/Azure-161B22?style=flat-square&color=161B22)
@@ -185,9 +178,7 @@ guest@github:~$ cat skills.json | jq .
 ![Databricks](https://img.shields.io/badge/Databricks-161B22?style=flat-square&color=161B22)
 ![SonarQube](https://img.shields.io/badge/SonarQube-161B22?style=flat-square&color=161B22)
 ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&color=161B22)
-
 <br>
-
 **Tools & Platforms**
 <br>
 ![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&color=161B22)
@@ -196,6 +187,7 @@ guest@github:~$ cat skills.json | jq .
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-161B22?style=flat-square&color=161B22)
 ![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square&color=161B22)
 <br>
+
 
 ## 📡 `connect --list`
 
