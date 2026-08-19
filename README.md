@@ -18,8 +18,7 @@ guest@github:~$ cat about.md
 
 ```
 > Software Engineer @ Ascentt AITek, Indore | AI/ML · Computer Vision · GenAI
-> Working across the full ML lifecycle — research, data curation, model
-> training, backend/API dev, and client-facing POCs.
+> Working across the full ML lifecycle — research, data curation, model training, backend/API dev, and client-facing POCs.
 > Focus areas: Agentic AI · Time-Series Forecasting · OCR · CAD Automation
 > Prior: Data Science Intern @ Uoons E-commerce
 > Education: B.Tech CSE (AI & ML), Acropolis Institute of Technology, 2025
