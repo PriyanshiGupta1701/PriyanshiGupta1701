@@ -146,6 +146,7 @@ guest@github:~$ cat skills.json | jq .
 ![C++](https://img.shields.io/badge/C++-161B22?style=flat-square&color=161B22)
 ![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square&color=161B22)
 <br>
+
 **AI / ML / CV**
 <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&color=161B22)
@@ -160,6 +161,7 @@ guest@github:~$ cat skills.json | jq .
 ![Gemini](https://img.shields.io/badge/Gemini-161B22?style=flat-square&color=161B22)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&color=161B22)
 <br>
+
 **Backend & Frameworks**
 <br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&color=161B22)
@@ -168,6 +170,7 @@ guest@github:~$ cat skills.json | jq .
 ![Tauri](https://img.shields.io/badge/Tauri-161B22?style=flat-square&color=161B22)
 ![WebSocket](https://img.shields.io/badge/WebSocket-161B22?style=flat-square&color=161B22)
 <br>
+
 **Cloud, DevOps & Data**
 <br>
 ![Azure](https://img.shields.io/badge/Azure-161B22?style=flat-square&color=161B22)
@@ -179,6 +182,7 @@ guest@github:~$ cat skills.json | jq .
 ![SonarQube](https://img.shields.io/badge/SonarQube-161B22?style=flat-square&color=161B22)
 ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&color=161B22)
 <br>
+
 **Tools & Platforms**
 <br>
 ![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&color=161B22)
